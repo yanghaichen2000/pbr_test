@@ -18,12 +18,27 @@
     <ClCompile Include="test_eigen.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test_tmp.cpp">
+    <ClCompile Include="test_ray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_bounds.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\geometry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\bounds.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mathematics.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\transform.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

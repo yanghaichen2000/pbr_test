@@ -1,4 +1,7 @@
+#ifndef _GEOMETRY_H_
+#define _GEOMETRY_H_
 #include <Eigen\Dense>
+#include "bounds.h"
 
 using Eigen::Vector3f;
 
@@ -26,3 +29,5 @@ inline Vector3f FaceForward(const Vector3f &n, const Vector3f &v)
 {
 	return (n.dot(v) < 0.f) ? -n : n;
 }
+
+#endif

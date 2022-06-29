@@ -119,11 +119,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="test_bounds.cpp" />
     <ClCompile Include="test_eigen.cpp" />
-    <ClCompile Include="test_tmp.cpp" />
+    <ClCompile Include="test_ray.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\bounds.h" />
     <ClInclude Include="include\geometry.h" />
+    <ClInclude Include="include\mathematics.h" />
+    <ClInclude Include="include\ray.h" />
+    <ClInclude Include="include\transform.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
