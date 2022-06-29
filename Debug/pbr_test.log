@@ -1,0 +1,5 @@
+﻿  test_eigen.cpp
+d:\cpp_homework2\pbr_test\pbr_test\pbr_test\deps\eigen-3.4.0\eigen\src\core\arch\default\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\cpp_homework2\pbr_test\pbr_test\pbr_test\deps\eigen-3.4.0\eigen\src\core\arch\default\bfloat16.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\cpp_homework2\pbr_test\pbr_test\pbr_test\deps\eigen-3.4.0\eigen\src\core\arch\default\genericpacketmathfunctions.h(675): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  pbr_test.vcxproj -> D:\cpp_homework2\pbr_test\pbr_test\Debug\pbr_test.exe
