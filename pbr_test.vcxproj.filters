@@ -24,6 +24,9 @@
     <ClCompile Include="test_bounds.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\geometry.h">
